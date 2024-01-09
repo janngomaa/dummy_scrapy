@@ -1,7 +1,4 @@
-Scrapy tutos
-------------
-https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0
-https://www.jitsejan.com/scraping-with-scrapy-and-postgres
+This Scrapy project shows the basics on how to crawl data using Scrapy.
 
 
 Keyring
